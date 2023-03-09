@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icon2.ico</ApplicationIcon>
+    <ApplicationIcon>bookmark.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -85,6 +85,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bookmark.ico" />
     <Content Include="icon.ico" />
     <Content Include="icon2.ico" />
   </ItemGroup>
